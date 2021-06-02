@@ -19,3 +19,6 @@ LIBRARIES USED:
 -SCIPY
 -IMUTILS
 -WINSOUND
+
+
+Team Mebmber-Nidhi Gupta(https://github.com/nidhigupta025)
